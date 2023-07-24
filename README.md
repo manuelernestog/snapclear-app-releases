@@ -1,2 +1,2 @@
-# bg-remover-app-releases
-bgRemover | Remove Image Background with AI for Free Offline (Releases Repo)
+# snapclear-app-releases
+Snapclear | Remove Image Background with AI for Free Offline (Releases Repo)
